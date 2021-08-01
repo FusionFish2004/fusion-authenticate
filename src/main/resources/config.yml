@@ -1,0 +1,10 @@
+auth:
+  authenticate-window: 100
+  filter-mod-id:
+    depends:
+      - "fusionclient"
+    banned:
+      - "wurst"
+      - "xray"
+messages:
+  not-using-admitted-client: "未使用指定客户端"

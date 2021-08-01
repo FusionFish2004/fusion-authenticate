@@ -1,0 +1,5 @@
+name: FusionAuth
+author: FusionFish
+version: 1.0
+main: cn.fusionfish.fusionauth.FusionAuth
+api-version: 1.17
